@@ -1,7 +1,5 @@
 
 ```markdown
-Syntax highlighted code block
-
 # CS 193 Section 801
 ## Lab 01
 ### Viraat Das
