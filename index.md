@@ -1,5 +1,3 @@
-
-```markdown
 # CS 193 Section 801
 # Lab 01
 # Viraat Das
@@ -17,7 +15,7 @@
 **Bold** and _Italic_ and `Code` text
 
 [GitHub](github.com/viraatdas) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
