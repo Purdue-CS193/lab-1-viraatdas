@@ -1,13 +1,10 @@
-# Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-## CS 193 Section 801
-### Lab 01
-#### Viraat Das
+# CS 193 Section 801
+## Lab 01
+### Viraat Das
 
 #### Favorite things about CS 193
 - Seems very useful 
