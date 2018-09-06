@@ -12,14 +12,16 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # CS 193 Section 801
-## Lab 01
-### Viraat Das
+# Lab 01
+# Viraat Das
 
-- Bulleted
-- List
+#Favorite things about CS 193
+- Seems very useful 
+- Fun! 
+- Exciting! 
 
-1. Numbered
-2. List
+
+
 
 
 
