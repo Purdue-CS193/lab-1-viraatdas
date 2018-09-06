@@ -1,4 +1,4 @@
-#Markdown
+# Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -9,7 +9,7 @@ Syntax highlighted code block
 # Lab 01
 # Viraat Das
 
-#Favorite things about CS 193
+# Favorite things about CS 193
 - Seems very useful 
 - Fun! 
 - Exciting! 
